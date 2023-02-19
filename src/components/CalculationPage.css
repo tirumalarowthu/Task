@@ -1,0 +1,93 @@
+.main-page-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 180px;
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 5px;
+  margin-left: 250px;
+  width: 50%;
+  padding: 15px;
+}
+
+.calculation-heading {
+  margin-top: 15px;
+  font-family: Roboto;
+  font-weight: 600;
+  font-size: 30px;
+}
+
+.input-design {
+  margin-top: 15px;
+  padding: 8px;
+  border-style: 1px solid #ad8a87;
+  border-radius: 5px;
+  background-color: transparent;
+}
+
+.button-edit {
+  margin-top: 15px;
+  color: white;
+  padding: 10px;
+  border: none;
+  border-radius: 8px;
+  text-align: center;
+  font-family: Roboto;
+  font-size: 18px;
+}
+
+.resultVal{
+  font-family: Roboto;
+  font-size: 32px;
+  font-weight: 600;
+  padding: 10px;
+  text-align: center;
+}
+
+.error {
+  padding-top: 10px;
+  color: red;
+}
+
+.logout {
+  background-color: #ff3333;
+  margin-top: 15px;
+  color: white;
+  padding: 10px;
+  border: none;
+  border-radius: 8px;
+  text-align: center;
+  font-family: Roboto;
+  font-size: 18px;
+}
+
+.result-design {
+  padding-top: 5px;
+  font-size: 32px;
+}
+
+.container {
+  margin: 200px auto;
+  border: 2px solid black;
+  width: 50%;
+  padding-left: 200px;
+  padding-top: 100px;
+  border-radius: 8px;
+}
+
+.button-container{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin: 10px;
+}
+
+.singlebutton-container{
+  margin: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

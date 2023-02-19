@@ -1,0 +1,22 @@
+.error-container{
+    display: flex;
+    flex-direction: column; 
+    justify-content: center;
+    align-items: center;
+}
+
+.error-heading{
+    color: red;
+    font-family: Roboto;
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.redirect-button{
+    background-color: blue;
+    border-style: none;
+    border-radius: 5px;
+    color: #ffffff;
+    font-family: Roboto;
+    font-size: 18px;
+}
